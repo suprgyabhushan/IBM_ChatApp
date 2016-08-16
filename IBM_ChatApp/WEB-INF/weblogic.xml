@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--    @author Copyright (c) 2015, 2015, Oracle and/or its affiliates.
+All rights reserved. -->
+<weblogic-web-app xmlns="http://xmlns.oracle.com/weblogic/weblogic-application">
+  <context-root>/achatapp</context-root>
+  <jsp-descriptor>
+    <keepgenerated>true</keepgenerated>
+  </jsp-descriptor>
+</weblogic-web-app>
